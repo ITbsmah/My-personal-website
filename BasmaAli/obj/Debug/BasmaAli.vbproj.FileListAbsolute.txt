@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\BasmaAli\BasmaAli\bin\BasmaAli.dll
+C:\Users\HP\Desktop\BasmaAli\BasmaAli\bin\BasmaAli.pdb
+C:\Users\HP\Desktop\BasmaAli\BasmaAli\bin\BasmaAli.xml
+C:\Users\HP\Desktop\BasmaAli\BasmaAli\obj\Debug\BasmaAli.Resources.resources
+C:\Users\HP\Desktop\BasmaAli\BasmaAli\obj\Debug\BasmaAli.vbproj.GenerateResource.Cache
+C:\Users\HP\Desktop\BasmaAli\BasmaAli\obj\Debug\BasmaAli.dll
+C:\Users\HP\Desktop\BasmaAli\BasmaAli\obj\Debug\BasmaAli.xml
+C:\Users\HP\Desktop\BasmaAli\BasmaAli\obj\Debug\BasmaAli.pdb
+C:\Users\Ali Alloush\Desktop\BasmaAli\BasmaAli\bin\BasmaAli.dll
+C:\Users\Ali Alloush\Desktop\BasmaAli\BasmaAli\bin\BasmaAli.pdb
+C:\Users\Ali Alloush\Desktop\BasmaAli\BasmaAli\bin\BasmaAli.xml
+C:\Users\Ali Alloush\Desktop\BasmaAli\BasmaAli\obj\Debug\BasmaAli.Resources.resources
+C:\Users\Ali Alloush\Desktop\BasmaAli\BasmaAli\obj\Debug\BasmaAli.vbproj.GenerateResource.Cache
+C:\Users\Ali Alloush\Desktop\BasmaAli\BasmaAli\obj\Debug\BasmaAli.dll
+C:\Users\Ali Alloush\Desktop\BasmaAli\BasmaAli\obj\Debug\BasmaAli.xml
+C:\Users\Ali Alloush\Desktop\BasmaAli\BasmaAli\obj\Debug\BasmaAli.pdb
